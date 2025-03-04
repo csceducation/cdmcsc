@@ -6,3 +6,4 @@ def global_context(request):
     
 company = "Chidhambaram"
 site_pass = "608001"
+uname = "cdmcsc"
